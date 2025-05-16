@@ -1,4 +1,2 @@
-from functions import *
-print("Ola mundo")
-
-print(soma(2,4))
+def some_function(a, b):
+    return a + b
