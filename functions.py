@@ -1,2 +1,3 @@
-def some_function(a, b):
-    return a + b
+def soma(a, b):
+    result = a + b  # Corrected to perform addition
+    return result
